@@ -19,5 +19,24 @@
         app:layout_constraintRight_toRightOf="parent"
         app:menu="@menu/navigation" />
 
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/tombol_rekayasa"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/rekayasa" />
+
+        <Button
+            android:id="@+id/tombol_niaga"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tata_niaga"
+            android:layout_below="@+id/tombol_rekayasa"/>
+    </RelativeLayout>
+
+
 
 </android.support.constraint.ConstraintLayout>
