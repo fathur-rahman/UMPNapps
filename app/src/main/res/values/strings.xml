@@ -27,4 +27,6 @@ Politeknik Negeri Jakarta (PNJ) merupakan lembaga pendidikan tinggi Diploma III 
     <string name="tik">logotik</string>
     <string name="ts">ts</string>
     <string name="title_activity_sidenav">sidenav</string>
+    <string name="email_user_nganu_com">email.user@nganu.com</string>
+    <string name="nama_user">Nama User</string>
 </resources>
